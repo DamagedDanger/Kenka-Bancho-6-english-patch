@@ -84,7 +84,7 @@ The package does not contain any complete game file. Checksums of the package ar
 
 ## Credits and legal
 
-* Translation, image editing, font and tools: **[Luke Nelson]**
+* Translation, image editing, font and tools: **[DamagedDanger]**
 * Machine-assisted translation (Claude by Anthropic) with human direction; proofreading and corrections from the community are very welcome.
 * *Kenka Bancho* is © Spike Chunsoft. This is an unofficial, free fan project, not affiliated with or endorsed by the publisher.
   Please support the official release. **Do not ask for, or share, game files.**
